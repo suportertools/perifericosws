@@ -1,0 +1,7 @@
+{
+    "host": "192.168.15.35",
+    "port": "5432",
+    "database": "ComercioRP",
+    "user": "postgres",
+    "password": "*4qu4r10-"
+}
